@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SSSRandom/.vs/SSSRandom/v15/Server/sqlite3
+/SSSRandom/obj/Debug
